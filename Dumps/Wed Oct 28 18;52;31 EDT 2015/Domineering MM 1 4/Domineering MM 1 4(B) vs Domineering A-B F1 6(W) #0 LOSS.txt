@@ -1,0 +1,293 @@
+Domineering A-B F1 6 (W) played 3 3 3 4
+........
+........
+........
+........
+...WW...
+........
+........
+........
+[AWAY 1 GAME_ON]
+Domineering MM 1 4 (B) played 2 5 3 5
+........
+........
+........
+........
+...WWB..
+.....B..
+........
+........
+[HOME 2 GAME_ON]
+Domineering A-B F1 6 (W) played 0 2 0 3
+........
+........
+........
+........
+...WWB..
+.....B..
+........
+..WW....
+[AWAY 3 GAME_ON]
+Domineering MM 1 4 (B) played 1 7 2 7
+........
+........
+........
+........
+...WWB..
+.....B.B
+.......B
+..WW....
+[HOME 4 GAME_ON]
+Domineering A-B F1 6 (W) played 1 3 1 4
+........
+........
+........
+........
+...WWB..
+.....B.B
+...WW..B
+..WW....
+[AWAY 5 GAME_ON]
+Domineering MM 1 4 (B) played 0 1 1 1
+........
+........
+........
+........
+...WWB..
+.....B.B
+.B.WW..B
+.BWW....
+[HOME 6 GAME_ON]
+Domineering A-B F1 6 (W) played 5 1 5 2
+........
+........
+.WW.....
+........
+...WWB..
+.....B.B
+.B.WW..B
+.BWW....
+[AWAY 7 GAME_ON]
+Domineering MM 1 4 (B) played 0 0 1 0
+........
+........
+.WW.....
+........
+...WWB..
+.....B.B
+BB.WW..B
+BBWW....
+[HOME 8 GAME_ON]
+Domineering A-B F1 6 (W) played 4 1 4 2
+........
+........
+.WW.....
+.WW.....
+...WWB..
+.....B.B
+BB.WW..B
+BBWW....
+[AWAY 9 GAME_ON]
+Domineering MM 1 4 (B) played 6 5 7 5
+.....B..
+.....B..
+.WW.....
+.WW.....
+...WWB..
+.....B.B
+BB.WW..B
+BBWW....
+[HOME 10 GAME_ON]
+Domineering A-B F1 6 (W) played 4 6 4 7
+.....B..
+.....B..
+.WW.....
+.WW...WW
+...WWB..
+.....B.B
+BB.WW..B
+BBWW....
+[AWAY 11 GAME_ON]
+Domineering MM 1 4 (B) played 1 6 2 6
+.....B..
+.....B..
+.WW.....
+.WW...WW
+...WWB..
+.....BBB
+BB.WW.BB
+BBWW....
+[HOME 12 GAME_ON]
+Domineering A-B F1 6 (W) played 5 3 5 4
+.....B..
+.....B..
+.WWWW...
+.WW...WW
+...WWB..
+.....BBB
+BB.WW.BB
+BBWW....
+[AWAY 13 GAME_ON]
+Domineering MM 1 4 (B) played 5 6 6 6
+.....B..
+.....BB.
+.WWWW.B.
+.WW...WW
+...WWB..
+.....BBB
+BB.WW.BB
+BBWW....
+[HOME 14 GAME_ON]
+Domineering A-B F1 6 (W) played 3 1 3 2
+.....B..
+.....BB.
+.WWWW.B.
+.WW...WW
+.WWWWB..
+.....BBB
+BB.WW.BB
+BBWW....
+[AWAY 15 GAME_ON]
+Domineering MM 1 4 (B) played 5 7 6 7
+.....B..
+.....BBB
+.WWWW.BB
+.WW...WW
+.WWWWB..
+.....BBB
+BB.WW.BB
+BBWW....
+[HOME 16 GAME_ON]
+Domineering A-B F1 6 (W) played 2 0 2 1
+.....B..
+.....BBB
+.WWWW.BB
+.WW...WW
+.WWWWB..
+WW...BBB
+BB.WW.BB
+BBWW....
+[AWAY 17 GAME_ON]
+Domineering MM 1 4 (B) played 3 0 4 0
+.....B..
+.....BBB
+.WWWW.BB
+BWW...WW
+BWWWWB..
+WW...BBB
+BB.WW.BB
+BBWW....
+[HOME 18 GAME_ON]
+Domineering A-B F1 6 (W) played 0 5 0 6
+.....B..
+.....BBB
+.WWWW.BB
+BWW...WW
+BWWWWB..
+WW...BBB
+BB.WW.BB
+BBWW.WW.
+[AWAY 19 GAME_ON]
+Domineering MM 1 4 (B) played 5 0 6 0
+.....B..
+B....BBB
+BWWWW.BB
+BWW...WW
+BWWWWB..
+WW...BBB
+BB.WW.BB
+BBWW.WW.
+[HOME 20 GAME_ON]
+Domineering A-B F1 6 (W) played 7 3 7 4
+...WWB..
+B....BBB
+BWWWW.BB
+BWW...WW
+BWWWWB..
+WW...BBB
+BB.WW.BB
+BBWW.WW.
+[AWAY 21 GAME_ON]
+Domineering MM 1 4 (B) played 1 2 2 2
+...WWB..
+B....BBB
+BWWWW.BB
+BWW...WW
+BWWWWB..
+WWB..BBB
+BBBWW.BB
+BBWW.WW.
+[HOME 22 GAME_ON]
+Domineering A-B F1 6 (W) played 2 3 2 4
+...WWB..
+B....BBB
+BWWWW.BB
+BWW...WW
+BWWWWB..
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[AWAY 23 GAME_ON]
+Domineering MM 1 4 (B) played 6 2 7 2
+..BWWB..
+B.B..BBB
+BWWWW.BB
+BWW...WW
+BWWWWB..
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[HOME 24 GAME_ON]
+Domineering A-B F1 6 (W) played 6 3 6 4
+..BWWB..
+B.BWWBBB
+BWWWW.BB
+BWW...WW
+BWWWWB..
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[AWAY 25 GAME_ON]
+Domineering MM 1 4 (B) played 4 5 5 5
+..BWWB..
+B.BWWBBB
+BWWWWBBB
+BWW..BWW
+BWWWWB..
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[HOME 26 GAME_ON]
+Domineering A-B F1 6 (W) played 7 6 7 7
+..BWWBWW
+B.BWWBBB
+BWWWWBBB
+BWW..BWW
+BWWWWB..
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[AWAY 27 GAME_ON]
+Domineering MM 1 4 (B) played 6 1 7 1
+.BBWWBWW
+BBBWWBBB
+BWWWWBBB
+BWW..BWW
+BWWWWB..
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[HOME 28 GAME_ON]
+Domineering A-B F1 6 (W) played 3 6 3 7
+.BBWWBWW
+BBBWWBBB
+BWWWWBBB
+BWW..BWW
+BWWWWBWW
+WWBWWBBB
+BBBWW.BB
+BBWW.WW.
+[AWAY 29 HOME_WIN]
+Y
+Domineering A-B F1 6 (W) (238.964000 seconds remaining) won.
+Domineering MM 1 4 had 234.527000 seconds remaining.

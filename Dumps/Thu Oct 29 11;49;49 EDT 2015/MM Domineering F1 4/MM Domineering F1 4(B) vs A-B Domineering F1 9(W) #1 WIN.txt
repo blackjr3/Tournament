@@ -1,0 +1,283 @@
+A-B Domineering F1 9 (W) played 0 5 0 6
+........
+........
+........
+........
+........
+........
+........
+.....WW.
+[AWAY 1 GAME_ON]
+MM Domineering F1 4 (B) played 1 2 2 2
+........
+........
+........
+........
+........
+..B.....
+..B.....
+.....WW.
+[HOME 2 GAME_ON]
+A-B Domineering F1 9 (W) played 3 5 3 6
+........
+........
+........
+........
+.....WW.
+..B.....
+..B.....
+.....WW.
+[AWAY 3 GAME_ON]
+MM Domineering F1 4 (B) played 1 7 2 7
+........
+........
+........
+........
+.....WW.
+..B....B
+..B....B
+.....WW.
+[HOME 4 GAME_ON]
+A-B Domineering F1 9 (W) played 4 3 4 4
+........
+........
+........
+...WW...
+.....WW.
+..B....B
+..B....B
+.....WW.
+[AWAY 5 GAME_ON]
+MM Domineering F1 4 (B) played 2 1 3 1
+........
+........
+........
+...WW...
+.B...WW.
+.BB....B
+..B....B
+.....WW.
+[HOME 6 GAME_ON]
+A-B Domineering F1 9 (W) played 6 4 6 5
+........
+....WW..
+........
+...WW...
+.B...WW.
+.BB....B
+..B....B
+.....WW.
+[AWAY 7 GAME_ON]
+MM Domineering F1 4 (B) played 4 7 5 7
+........
+....WW..
+.......B
+...WW..B
+.B...WW.
+.BB....B
+..B....B
+.....WW.
+[HOME 8 GAME_ON]
+A-B Domineering F1 9 (W) played 7 4 7 5
+....WW..
+....WW..
+.......B
+...WW..B
+.B...WW.
+.BB....B
+..B....B
+.....WW.
+[AWAY 9 GAME_ON]
+MM Domineering F1 4 (B) played 1 4 2 4
+....WW..
+....WW..
+.......B
+...WW..B
+.B...WW.
+.BB.B..B
+..B.B..B
+.....WW.
+[HOME 10 GAME_ON]
+A-B Domineering F1 9 (W) played 0 1 0 2
+....WW..
+....WW..
+.......B
+...WW..B
+.B...WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[AWAY 11 GAME_ON]
+MM Domineering F1 4 (B) played 6 6 7 6
+....WWB.
+....WWB.
+.......B
+...WW..B
+.B...WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[HOME 12 GAME_ON]
+A-B Domineering F1 9 (W) played 4 5 4 6
+....WWB.
+....WWB.
+.......B
+...WWWWB
+.B...WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[AWAY 13 GAME_ON]
+MM Domineering F1 4 (B) played 6 0 7 0
+B...WWB.
+B...WWB.
+.......B
+...WWWWB
+.B...WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[HOME 14 GAME_ON]
+A-B Domineering F1 9 (W) played 5 0 5 1
+B...WWB.
+B...WWB.
+WW.....B
+...WWWWB
+.B...WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[AWAY 15 GAME_ON]
+MM Domineering F1 4 (B) played 5 3 6 3
+B...WWB.
+B..BWWB.
+WW.B...B
+...WWWWB
+.B...WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[HOME 16 GAME_ON]
+A-B Domineering F1 9 (W) played 3 2 3 3
+B...WWB.
+B..BWWB.
+WW.B...B
+...WWWWB
+.BWW.WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[AWAY 17 GAME_ON]
+MM Domineering F1 4 (B) played 4 2 5 2
+B...WWB.
+B..BWWB.
+WWBB...B
+..BWWWWB
+.BWW.WW.
+.BB.B..B
+..B.B..B
+.WW..WW.
+[HOME 18 GAME_ON]
+A-B Domineering F1 9 (W) played 1 0 1 1
+B...WWB.
+B..BWWB.
+WWBB...B
+..BWWWWB
+.BWW.WW.
+.BB.B..B
+WWB.B..B
+.WW..WW.
+[AWAY 19 GAME_ON]
+MM Domineering F1 4 (B) played 3 0 4 0
+B...WWB.
+B..BWWB.
+WWBB...B
+B.BWWWWB
+BBWW.WW.
+.BB.B..B
+WWB.B..B
+.WW..WW.
+[HOME 20 GAME_ON]
+A-B Domineering F1 9 (W) played 0 3 0 4
+B...WWB.
+B..BWWB.
+WWBB...B
+B.BWWWWB
+BBWW.WW.
+.BB.B..B
+WWB.B..B
+.WWWWWW.
+[AWAY 21 GAME_ON]
+MM Domineering F1 4 (B) played 6 7 7 7
+B...WWBB
+B..BWWBB
+WWBB...B
+B.BWWWWB
+BBWW.WW.
+.BB.B..B
+WWB.B..B
+.WWWWWW.
+[HOME 22 GAME_ON]
+A-B Domineering F1 9 (W) played 5 5 5 6
+B...WWBB
+B..BWWBB
+WWBB.WWB
+B.BWWWWB
+BBWW.WW.
+.BB.B..B
+WWB.B..B
+.WWWWWW.
+[AWAY 23 GAME_ON]
+MM Domineering F1 4 (B) played 1 6 2 6
+B...WWBB
+B..BWWBB
+WWBB.WWB
+B.BWWWWB
+BBWW.WW.
+.BB.B.BB
+WWB.B.BB
+.WWWWWW.
+[HOME 24 GAME_ON]
+A-B Domineering F1 9 (W) played 6 1 6 2
+B...WWBB
+BWWBWWBB
+WWBB.WWB
+B.BWWWWB
+BBWW.WW.
+.BB.B.BB
+WWB.B.BB
+.WWWWWW.
+[AWAY 25 GAME_ON]
+MM Domineering F1 4 (B) played 1 3 2 3
+B...WWBB
+BWWBWWBB
+WWBB.WWB
+B.BWWWWB
+BBWW.WW.
+.BBBB.BB
+WWBBB.BB
+.WWWWWW.
+[HOME 26 GAME_ON]
+A-B Domineering F1 9 (W) played 7 1 7 2
+BWW.WWBB
+BWWBWWBB
+WWBB.WWB
+B.BWWWWB
+BBWW.WW.
+.BBBB.BB
+WWBBB.BB
+.WWWWWW.
+[AWAY 27 GAME_ON]
+MM Domineering F1 4 (B) played 1 5 2 5
+BWW.WWBB
+BWWBWWBB
+WWBB.WWB
+B.BWWWWB
+BBWW.WW.
+.BBBBBBB
+WWBBBBBB
+.WWWWWW.
+[HOME 28 AWAY_WIN]
+Y
+MM Domineering F1 4 (B) (234.368000 seconds remaining) won.
+A-B Domineering F1 9 had 50.875000 seconds remaining.

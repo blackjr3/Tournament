@@ -1,0 +1,263 @@
+Random+ (W) played 5 6 5 7
+........
+........
+......WW
+........
+........
+........
+........
+........
+[AWAY 1 GAME_ON]
+Domineering MM 1 4 (B) played 3 2 4 2
+........
+........
+......WW
+..B.....
+..B.....
+........
+........
+........
+[HOME 2 GAME_ON]
+Random+ (W) played 0 5 0 6
+........
+........
+......WW
+..B.....
+..B.....
+........
+........
+.....WW.
+[AWAY 3 GAME_ON]
+Domineering MM 1 4 (B) played 0 7 1 7
+........
+........
+......WW
+..B.....
+..B.....
+........
+.......B
+.....WWB
+[HOME 4 GAME_ON]
+Random+ (W) played 7 5 7 6
+.....WW.
+........
+......WW
+..B.....
+..B.....
+........
+.......B
+.....WWB
+[AWAY 5 GAME_ON]
+Domineering MM 1 4 (B) played 4 4 5 4
+.....WW.
+........
+....B.WW
+..B.B...
+..B.....
+........
+.......B
+.....WWB
+[HOME 6 GAME_ON]
+Random+ (W) played 5 1 5 2
+.....WW.
+........
+.WW.B.WW
+..B.B...
+..B.....
+........
+.......B
+.....WWB
+[AWAY 7 GAME_ON]
+Domineering MM 1 4 (B) played 2 6 3 6
+.....WW.
+........
+.WW.B.WW
+..B.B...
+..B...B.
+......B.
+.......B
+.....WWB
+[HOME 8 GAME_ON]
+Random+ (W) played 1 3 1 4
+.....WW.
+........
+.WW.B.WW
+..B.B...
+..B...B.
+......B.
+...WW..B
+.....WWB
+[AWAY 9 GAME_ON]
+Domineering MM 1 4 (B) played 6 7 7 7
+.....WWB
+.......B
+.WW.B.WW
+..B.B...
+..B...B.
+......B.
+...WW..B
+.....WWB
+[HOME 10 GAME_ON]
+Random+ (W) played 4 6 4 7
+.....WWB
+.......B
+.WW.B.WW
+..B.B.WW
+..B...B.
+......B.
+...WW..B
+.....WWB
+[AWAY 11 GAME_ON]
+Domineering MM 1 4 (B) played 6 3 7 3
+...B.WWB
+...B...B
+.WW.B.WW
+..B.B.WW
+..B...B.
+......B.
+...WW..B
+.....WWB
+[HOME 12 GAME_ON]
+Random+ (W) played 1 0 1 1
+...B.WWB
+...B...B
+.WW.B.WW
+..B.B.WW
+..B...B.
+......B.
+WW.WW..B
+.....WWB
+[AWAY 13 GAME_ON]
+Domineering MM 1 4 (B) played 6 1 7 1
+.B.B.WWB
+.B.B...B
+.WW.B.WW
+..B.B.WW
+..B...B.
+......B.
+WW.WW..B
+.....WWB
+[HOME 14 GAME_ON]
+Random+ (W) played 0 2 0 3
+.B.B.WWB
+.B.B...B
+.WW.B.WW
+..B.B.WW
+..B...B.
+......B.
+WW.WW..B
+..WW.WWB
+[AWAY 15 GAME_ON]
+Domineering MM 1 4 (B) played 2 1 3 1
+.B.B.WWB
+.B.B...B
+.WW.B.WW
+..B.B.WW
+.BB...B.
+.B....B.
+WW.WW..B
+..WW.WWB
+[HOME 16 GAME_ON]
+Random+ (W) played 2 4 2 5
+.B.B.WWB
+.B.B...B
+.WW.B.WW
+..B.B.WW
+.BB...B.
+.B..WWB.
+WW.WW..B
+..WW.WWB
+[AWAY 17 GAME_ON]
+Domineering MM 1 4 (B) played 4 0 5 0
+.B.B.WWB
+.B.B...B
+BWW.B.WW
+B.B.B.WW
+.BB...B.
+.B..WWB.
+WW.WW..B
+..WW.WWB
+[HOME 18 GAME_ON]
+Random+ (W) played 1 5 1 6
+.B.B.WWB
+.B.B...B
+BWW.B.WW
+B.B.B.WW
+.BB...B.
+.B..WWB.
+WW.WWWWB
+..WW.WWB
+[AWAY 19 GAME_ON]
+Domineering MM 1 4 (B) played 4 3 5 3
+.B.B.WWB
+.B.B...B
+BWWBB.WW
+B.BBB.WW
+.BB...B.
+.B..WWB.
+WW.WWWWB
+..WW.WWB
+[HOME 20 GAME_ON]
+Random+ (W) played 2 2 2 3
+.B.B.WWB
+.B.B...B
+BWWBB.WW
+B.BBB.WW
+.BB...B.
+.BWWWWB.
+WW.WWWWB
+..WW.WWB
+[AWAY 21 GAME_ON]
+Domineering MM 1 4 (B) played 3 5 4 5
+.B.B.WWB
+.B.B...B
+BWWBB.WW
+B.BBBBWW
+.BB..BB.
+.BWWWWB.
+WW.WWWWB
+..WW.WWB
+[HOME 22 GAME_ON]
+Random+ (W) played 0 0 0 1
+.B.B.WWB
+.B.B...B
+BWWBB.WW
+B.BBBBWW
+.BB..BB.
+.BWWWWB.
+WW.WWWWB
+WWWW.WWB
+[AWAY 23 GAME_ON]
+Domineering MM 1 4 (B) played 5 5 6 5
+.B.B.WWB
+.B.B.B.B
+BWWBBBWW
+B.BBBBWW
+.BB..BB.
+.BWWWWB.
+WW.WWWWB
+WWWW.WWB
+[HOME 24 GAME_ON]
+Random+ (W) played 3 3 3 4
+.B.B.WWB
+.B.B.B.B
+BWWBBBWW
+B.BBBBWW
+.BBWWBB.
+.BWWWWB.
+WW.WWWWB
+WWWW.WWB
+[AWAY 25 GAME_ON]
+Domineering MM 1 4 (B) played 6 2 7 2
+.BBB.WWB
+.BBB.B.B
+BWWBBBWW
+B.BBBBWW
+.BBWWBB.
+.BWWWWB.
+WW.WWWWB
+WWWW.WWB
+[HOME 26 AWAY_WIN]
+Y
+Domineering MM 1 4 (B) (292.622000 seconds remaining) won.
+Random+ had 299.996000 seconds remaining.
